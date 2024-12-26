@@ -2,6 +2,7 @@
 
 Este es un programa simple en Java que simula un **juego de adivinanzas**. El objetivo del juego es que el usuario adivine un número aleatorio entre 0 y 100 en un máximo de 5 intentos. El programa proporciona pistas indicando si el número ingresado es mayor o menor que el número generado.
 
+---
 ## Características
 
 - Genera un número aleatorio entre 0 y 100.
@@ -9,6 +10,8 @@ Este es un programa simple en Java que simula un **juego de adivinanzas**. El ob
 - Ofrece retroalimentación al usuario indicando si el número es mayor o menor.
 - Informa si el usuario adivina correctamente o si se queda sin intentos.
 - Utiliza un operador ternario para decisiones simples.
+
+---
 
 ## Tecnologías
 
@@ -59,6 +62,7 @@ Introduce tu intento: 37
 
 Si el usuario no adivina el número en los 5 intentos, el programa revelará el número secreto.
 
+---
 ## Estructura del código
 
 - **Generación de número aleatorio**: Se usa `Random` para generar el número secreto.
@@ -67,15 +71,20 @@ Si el usuario no adivina el número en los 5 intentos, el programa revelará el 
 - **Pistas**: Indica si el número es mayor o menor.
 - **Condición de éxito o falla**: Informa si el usuario adivinó el número o se quedó sin intentos.
 
+---
+
 ## Mejoras futuras
 
 - Agregar un modo difícil con un rango más amplio de números.
 - Permitir personalizar el número de intentos.
 - Implementar un marcador para registrar las puntuaciones de los jugadores.
 
+---
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Siéntete libre de abrir un issue o enviar un pull request.
+
+---
 
 ## Licencia
 
