@@ -20,6 +20,8 @@ Este es un programa simple en Java que simula un **juego de adivinanzas**. El ob
   - `java.util.Random` para generar números aleatorios.
   - `java.util.Scanner` para leer la entrada del usuario.
 
+---
+
 ## Ejecución
 
 ### Prerrequisitos
